@@ -1,11 +1,11 @@
 ```mermaid
 sequenceDiagram
-Alice->>John: Hello John, how are you?
+Alice->>Mr Smith: Hello Mr Smith, how are you?
 loop HealthCheck
-    John->>John: Fight against hypochondria
+    Mr Smith->>Mr Smith: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
+Mr Smith-->>Alice: Great!
+Mr Smith->>Bob: How about you?
+Bob-->>Mr Smith: Jolly good!
 ```
